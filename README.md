@@ -1,3 +1,3 @@
 # Landing-Arq
 
-<img src="img/arc.png">
+<img src="img/arcc.png">
